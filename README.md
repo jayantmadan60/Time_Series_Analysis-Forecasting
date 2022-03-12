@@ -107,8 +107,11 @@ q: The first time where the ACF crosses the upper confidence interval
 SARIMAX model is built by extending the ARIMA model, discussed in our previous section. In addition to terms AR, I and MA terms, there are four seasonal elements that are not part of ARIMA that must be configured; they are:
 
 P: Seasonal autoregressive order.
+
 D: Seasonal difference order.
+
 Q: Seasonal moving average order.
+
 m: The number of time steps for a single seasonal period.
 
 
