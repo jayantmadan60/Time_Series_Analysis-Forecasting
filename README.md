@@ -23,7 +23,7 @@ Python provides many easy-to-use libraries and tools for performing time series 
 
 ## STATIONARITY
 
-This is a very important concept in Time Series Analysis. In order to apply a time series model, it is important for the Time series to be stationary; in other words all its statistical properties (mean,variance) remain constant over time. This is done basically because if you take a certain behavior over time, it is important that this behavior is same in the future in order for us to forecast the series. There are a lot of statistical theories to explore stationary series than non-stationary series. (Thus we can bring the fight to our home ground!)
+This is a very important concept in Time Series Analysis. In order to apply a time series model, it is important for the Time series to be stationary (assumptions); in other words all its statistical properties (mean,variance) remain constant over time. This is done basically because if you take a certain behavior over time, it is important that this behavior is same in the future in order for us to forecast the series. There are a lot of statistical theories to explore stationary series than non-stationary series. (Thus we can bring the fight to our home ground!)
 
 
 ![image](https://user-images.githubusercontent.com/88995459/158029633-c07347e2-c7ef-4204-96fe-eba185c75734.png)
